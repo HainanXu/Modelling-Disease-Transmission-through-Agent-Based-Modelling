@@ -1,5 +1,6 @@
 # project on Math3MB3 modeling class
 Two parts:  
+
 1.Transition Matrix part  
 Generated 3000 agents with different health habits  
 
