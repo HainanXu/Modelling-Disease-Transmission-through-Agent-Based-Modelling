@@ -1,4 +1,4 @@
-# project on Math3MB3 modeling class
+# Agent Base model of pandemic
 Two parts:  
 
 1.Transition Matrix part  
