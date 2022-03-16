@@ -1,4 +1,5 @@
-# Agent Base model of pandemic
+# Modelling Disease Transmission through Agent-Based Modelling ![image](https://user-images.githubusercontent.com/55251782/158504823-2cd21cbb-00a8-4ac3-8140-b0674ddd5507.png)
+
 Two parts:  
 
 1.Transition Matrix part  
