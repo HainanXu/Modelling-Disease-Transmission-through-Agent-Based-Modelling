@@ -2,7 +2,7 @@
 
 Modeled the infection process of contagious disease based on Markov chain.
 
-Two parts:  
+3 parts:  
 1.Transition Matrix part  
 Generated 3000 agents with different health habits using normal distribution (a better distribution can be considered).
 Since each on of them have different health habits, each agent have different risk of being infected/recovered/dead.
