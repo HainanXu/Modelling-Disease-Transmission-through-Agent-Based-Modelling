@@ -1,10 +1,10 @@
 # Modelling Disease Transmission through Agent-Based Modelling 
 
-Modeled the infection process of contagious disease based on Markov chain.
+Modeled the infection process of contagious disease based on MCMC Method. U
 
 3 parts:  
 1.Transition Matrix part  
-Generated 3000 agents with different health habits using normal distribution (a better distribution can be considered).
+We generated 3000 agents with different health habits(risk factors). A mixture of normal distributions are used to simulate and calculate the risk of an agent being infected.
 Since each on of them have different health habits, each agent have different risk of being infected/recovered/dead.
 Each agents has four possible states as time goes: Suspected-Infected-Recovered-Dead  
 
